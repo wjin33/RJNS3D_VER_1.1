@@ -1,6 +1,6 @@
 # Discrete Fracture Network generation and sampling code -- Rock mass Joint Network Simulation (RJNS)
 
-It is essentially a Matlab Toolbox consisting several dozens of function coded by authors.The position, orientation, and size of joints are independent of each other with in this toolbox. Theposition,namely the jointcenter, follows a Poisson's distribution. Theorientation can be either deterministic or has a Fisherd istribution while the joint size can be any form of distribution. Please refer the word document RJNS3D函数简介和测试.doc for detailed explnation of each of the function. 
+It is essentially a Matlab Toolbox consisting several dozens of function coded by authors. The position, orientation, and size of joints are independent of each other with in this toolbox. The position,namely the joint center, follows a Poisson's distribution. The orientation can be either deterministic or has a Fisherd istribution while the joint size can be any form of distribution. Please refer the word document RJNS3D函数简介和测试.doc for detailed explanation of each of the function. 
 
 Please kindly cite following papers if you used any of the functions or algorithms listed in this Github repository, thank you
 
